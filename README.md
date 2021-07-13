@@ -1,4 +1,8 @@
-## Business Data Visualization
+## **Business Data Visualization**
+
+:hearts: Milestone: Manipulating the data using "PySpark" syntax due to easily operated on large datasets. 
+
+### :dart: Projects : JetBlue Airways Analysis <br/>
 
 <br/>
 <img src="BDV/0.png" align="center" width="800"> <br/>
