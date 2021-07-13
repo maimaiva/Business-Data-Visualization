@@ -1,5 +1,9 @@
 ## Business Data Visualization
 
+<br/>
+<img src="BDV/0.png" align="center" width="800"> <br/>
+<br/>
+
 
 <br/>
 <img src="BDV/1.png" align="center" width="800"> <br/>
