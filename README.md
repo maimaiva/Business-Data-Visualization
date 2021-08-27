@@ -1,6 +1,6 @@
 ## **Business Data Visualization**
 
-:hearts: Milestone: Visualize data to easily interpret and find the insight for business improvement strategy. 
+:hearts: Milestone: Visualize the data to easily interpret and find the insight for business improvement strategy. 
 
 ### :dart: Projects : JetBlue Airways Analysis <br/>
 
